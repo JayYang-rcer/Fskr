@@ -1,0 +1,11 @@
+sdk/Peripheral/ch32v30x_crc.o: \
+ D:/新建文件夹/19Feisi_CAR/HoverShip_normal/libraries/sdk/Peripheral/ch32v30x_crc.c \
+ D:/新建文件夹/19Feisi_CAR/HoverShip_normal/libraries/sdk/Peripheral/ch32v30x_crc.h \
+ D:/新建文件夹/19Feisi_CAR/HoverShip_normal/libraries/sdk/Peripheral/ch32v30x.h \
+ D:\新建文件夹\19Feisi_CAR\HoverShip_normal\libraries\sdk\Core/core_riscv.h
+
+D:/新建文件夹/19Feisi_CAR/HoverShip_normal/libraries/sdk/Peripheral/ch32v30x_crc.h:
+
+D:/新建文件夹/19Feisi_CAR/HoverShip_normal/libraries/sdk/Peripheral/ch32v30x.h:
+
+D:\新建文件夹\19Feisi_CAR\HoverShip_normal\libraries\sdk\Core/core_riscv.h:

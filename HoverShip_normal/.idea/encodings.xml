@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/project/code/Img_proc.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/project/code/Motor.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/project/code/barrier.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/project/code/circle.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/project/code/cross.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/project/code/garage.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/project/code/my_math.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/project/user/src/isr.c" charset="GB2312" />
+  </component>
+</project>
